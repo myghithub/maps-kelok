@@ -4,14 +4,14 @@
   "interval_inter": 4,
   "admob": [
     {
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "inter": "ca-app-pub-3940256099942544/1033173712"
+      "banner": "ca-app-pub-3481270421892883/6900878947",
+      "inter": "ca-app-pub-3481270421892883/5587797274"
     }
   ],
   "applovin": [
     {
-      "banner": "xxxxxxxxxxxxxxx",
-      "inter": "xxxxxxxxxxxxxxxx"
+      "banner": "3e38c1aee2bbb5d5",
+      "inter": "6af12e9d18dfca26"
     }
   ]
 }
